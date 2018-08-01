@@ -48,6 +48,7 @@ Cooper\ThreadRelevant\_04ThreadLocalDemo\MyThreadLocal$MyStringTask.class
 Cooper\ThreadRelevant\_09ReentrantReadWriteLock\usage\CacheDemo$1.class
 Cooper\_01DesignMode_Decorator\DecortorMode\MyCar.class
 Cooper\_01DesignMode_Decorator\DecortorMode\CarAudio.class
+Cooper\_02DesignMode_Builder\Product\Car.class
 Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirection$Node.class
 Cooper\alg1_3_search\_01binary_search\BinarySearch.class
 Cooper\ThreadRelevant\_09ReentrantReadWriteLock\readWriteLock\MainReadWritLockTest$1.class
@@ -79,6 +80,7 @@ Cooper\javaCollections\hashMapSort\User.class
 Cooper\lambda_java8\MapTest$1.class
 Cooper\ThreadRelevant\_08threadcommunication\ThreadCommunication.class
 Cooper\writtenExaminationQeustionsCollections\UsageOfReflection.class
+Cooper\beanutilsComparation\case1\TargetDemo.class
 Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\DaemonDemo.class
 Cooper\ThreadRelevant\_07concurencyNum\SemaphoreTest.class
 Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\TestDemo.class
@@ -175,6 +177,7 @@ Cooper\lambda_java8\InnerClassReplacement$1.class
 Cooper\ThreadRelevant\_04ThreadLocalDemo\MyThreadLocal.class
 Cooper\_01DesignMode_Decorator\DecortorModeExcercise\LowerCaseDemo.class
 Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\Producer.class
+Cooper\javaCollections\HashSet\Person.class
 Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\DaemonThread.class
 Cooper\javaCollections\hashSetAndTreeSet\HashDemo.class
 Cooper\writtenExaminationQeustionsCollections\Encoding$1.class
@@ -186,6 +189,7 @@ Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirection.class
 Cooper\javaCollections\HashRelevant\MyHashMap.class
 Cooper\javaCollections\HashSet\HashSetTest.class
 Cooper\writtenExaminationQeustionsCollections\Encoding.class
+Cooper\beanutilsComparation\case1\SourceDemo.class
 Cooper\_00DesignMode_Singleton\SingletonTest.class
 Cooper\ThreadRelevant\_05howToShareData\consistentThreads\ThreadDemo.class
 Cooper\reflection\reflectionAndArray\ArraysAsList.class
