@@ -1,143 +1,143 @@
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\enumTest\Color.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\ConcreteBuilder\ConcreteCarBuilder.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\INoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\PaoNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\MyCar.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArraysAsList.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\Product\Car.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalApplication\ConnectionUtil.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashSetAndTreeSet\HashDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\Consumer.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_04_loadResource\LoadResourceDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\treeSet\SortChar.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarAudio.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_03shellSort\ShellSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\SharedResource.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashSet\Person.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\beanutilsComparation\case1\TargetDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\readWriteLock\Queue.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_10deadLockAndFindIt\Test.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_05quickSort\Quick3Way.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalMisunderstand.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_01_class_instance\DateTypeClassInstance.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\APP.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalTest1.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\Test.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorModeExcercise\LowerCaseInputStream.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\FixedPool\FixedThread.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\PatternMatcher.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\RunnableCusToDec.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\RunnableCusToInc.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\MyClassLoader.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\InnerClassReplacement.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classAndItsInstances\InstanceCreatingThroughRelection.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_02_constructor\CreateObjectDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_00DesignMode_Singleton\SingletonTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarDecorator.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\JoinDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\usage\RWDictionary.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodInvokeDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\DaemonDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_05quickSort\QuickSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\MaxContinuousSubString.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\MultiMethodsFactory.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\RunnableCusToInc.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirection.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarRadar.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashMapSort\HashMapSortTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndMethod\StaticMethodDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\MyHeap.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\UsageOfReflection.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArrayCopyOfAnyType.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\FilterTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\SharedResource.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\SharedData.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_01startDemo\ThreadStart1.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\director\BuildDirector.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\INoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\RgNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\TestDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarABS.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\LzNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\proxyDemo\ProxyDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_00DesignMode_Singleton\Singleton.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodInvokeDemo2.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\scheduledThreadPool\ScheduledThreadPoolTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\TestDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\How_to_use_visualVM\MemoryLeakCheckDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\treeSet\StudentScoreStore.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\arraysTest\RepeatNumSearch.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\TestBean.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\TestMyClassLoader.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\urlRelevant\URLDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classes\Person.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\ResizingArrayStack.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashRelevant\MyHashMap.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\InfixToPostfix.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\readWriteLock\MainReadWritLockTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\tail_countSum1_100.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\beanutilsComparation\case1\SourceDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\TimerDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorModeExcercise\LowerCaseDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_01startDemo\ThreadStart2.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\DecorateDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\SharedData.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\singleTaskPool\SingleTask.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\IterationReplacement.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\MapTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\Consumer.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_08threadcommunication\GetDataFromOtherThread.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\loopReplacement\FirstArticleSearch.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_07concurencyNum\SemaphoreTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirectionDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\How_to_use_visualVM\TestMemory.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\enumTest\EnumDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\MyThreadLocal.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_01_class_instance\ClassInstanceDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_01selectionSort\SelectionSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_08threadcommunication\ThreadCommunication.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\OtherApi\ModifierDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\SortUtil.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classAndItsInstances\ByteCodesInstance.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\ArrayListDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\Key.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\exceptionAndFinally\ExceptionAndFinally.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\ReadWriteLock.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_00bubbleSort\bubbleSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_04mergeSort\MergeSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\FilterPredicateTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\load_resources\LoadResourceDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArrayVarsCalledByReflection.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_02_constructor\GetConstructor.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\LzNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\arraylistDemo\ArrayListDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\ThreadDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\countSum1_100.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndMethod\MethodDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\Producer.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\usage\CacheDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\RgNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\APP.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\urlRelevant\ClassLoaderDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\ThreadDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_02insetSort\Insert.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\Encoding.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\ReduceTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashMapSort\User.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_02TimerAndTimerTask\MyTimerTask.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\AbstractBuilder\ICarBuilder.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\BuilderModeTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashRelevant\MyHashMapTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\ICarShowable.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\Producer.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\loopReplacement\Article.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\cachedThreadPool\CachedThreadPool.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\Rabbit.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\HeapSort.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\PaoNoodles.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashSet\HashSetTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodDemo.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\naratoArr.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\DateAndCalendar\DateTimeTest.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_3_search\_01binary_search\BinarySearch.java
-D:\工作常用知识区\data structure and interviewTest\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\SimpleNoodlesFactory.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashMapSort\HashMapSortTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\naratoArr.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\InfixToPostfix.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\enumTest\Color.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\beanutilsComparation\case1\SourceDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_01_class_instance\DateTypeClassInstance.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\ThreadDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\TestMyClassLoader.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_02_constructor\GetConstructor.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\ICarShowable.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_04mergeSort\MergeSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_3_search\_01binary_search\BinarySearch.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArrayCopyOfAnyType.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\MyHeap.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\load_resources\LoadResourceDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\How_to_use_visualVM\TestMemory.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndMethod\StaticMethodDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classes\Person.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\RunnableCusToDec.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\MyCar.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArraysAsList.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\readWriteLock\Queue.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\SortUtil.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\PatternMatcher.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\AbstractBuilder\ICarBuilder.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\RunnableCusToInc.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorModeExcercise\LowerCaseInputStream.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\BuilderModeTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\JoinDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\Producer.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndMethod\MethodDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\ResizingArrayStack.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\RgNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashMapSort\User.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalMisunderstand.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\MaxContinuousSubString.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\MultiMethodsFactory.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorModeExcercise\LowerCaseDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\HeapSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashRelevant\MyHashMapTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodInvokeDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\RunnableCusToInc.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_01startDemo\ThreadStart1.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\Consumer.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_00bubbleSort\bubbleSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_04_loadResource\LoadResourceDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\enumTest\EnumDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\RgNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\TestDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_06heapSort\Key.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\OtherApi\ModifierDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_02TimerAndTimerTask\MyTimerTask.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\countSum1_100.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_00DesignMode_Singleton\SingletonTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\SharedResource.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\hashSetAndTreeSet\HashDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\Rabbit.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\FilterPredicateTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\cachedThreadPool\CachedThreadPool.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalApplication\ConnectionUtil.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_07concurencyNum\SemaphoreTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\INoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\director\BuildDirector.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\APP.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\urlRelevant\URLDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\IterationReplacement.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_01_class_instance\ClassInstanceDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashRelevant\MyHashMap.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\InnerClassReplacement.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\SharedResource.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\APP.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashSet\HashSetTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\readWriteLock\MainReadWritLockTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarAudio.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\DateAndCalendar\DateTimeTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\FilterTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\UsageOfReflection.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\DaemonDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_01selectionSort\SelectionSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\ThreadLocalTest1.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\treeSet\SortChar.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\proxyDemo\ProxyDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_lock\Consumer.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\MyClassLoader.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\ConcreteBuilder\ConcreteCarBuilder.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come_520it_producer_etc\Producer.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\DecorateDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\ReduceTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\SimpleNoodlesFactory.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\exceptionAndFinally\ExceptionAndFinally.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\beanutilsComparation\case1\TargetDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classAndItsInstances\InstanceCreatingThroughRelection.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\loopReplacement\Article.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\arraylistDemo\ArrayListDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\singleTaskPool\SingleTask.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\LzNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\INoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\SharedData.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_08threadcommunication\GetDataFromOtherThread.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\ReadWriteLock.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_05quickSort\QuickSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\scheduledThreadPool\ScheduledThreadPoolTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_06ThreadPool\FixedPool\FixedThread.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_03shellSort\ShellSort.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_00DesignMode_Singleton\Singleton.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\reflectionAndArray\ArrayVarsCalledByReflection.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\come\_520it_threadMethod\TimerDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\LzNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_02insetSort\Insert.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\Encoding.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\TestDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_02_constructor\CreateObjectDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\recursion_tail_recursion\tail_countSum1_100.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\writtenExaminationQeustionsCollections\ArrayListDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_2_sort\_05quickSort\Quick3Way.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\MapTest.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarDecorator.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\myClassLoader\myClassLoader\TestBean.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_02multiMethodsFactory_commonSeen\PaoNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\consistentThreads\SharedData.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_05howToShareData\inConsistentThreads\ThreadDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_03DesignMode_Factory\_01SimpleStaticFactory\PaoNoodles.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirectionDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\arraysTest\RepeatNumSearch.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\_03_method\MethodInvokeDemo2.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_04ThreadLocalDemo\MyThreadLocal.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\How_to_use_visualVM\MemoryLeakCheckDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\alg1_1LIFO_stack\myStack\MyStackSingleDirection.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\HashSet\Person.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_02DesignMode_Builder\Product\Car.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_03ProducerCnsumer\Test.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarRadar.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\lambda_java8\loopReplacement\FirstArticleSearch.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\reflection\classAndItsInstances\ByteCodesInstance.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\_01DesignMode_Decorator\DecortorMode\CarABS.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\classLoader\urlRelevant\ClassLoaderDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\usage\RWDictionary.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_08threadcommunication\ThreadCommunication.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\javaCollections\treeSet\StudentScoreStore.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_09ReentrantReadWriteLock\usage\CacheDemo.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_01startDemo\ThreadStart2.java
+D:\工作常用知识区\interviewTestAndDataStructure\fundamental_plus_dataStructure\src\main\java\Cooper\ThreadRelevant\_10deadLockAndFindIt\Test.java
