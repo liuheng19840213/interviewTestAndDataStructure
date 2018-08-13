@@ -1,6 +1,7 @@
 package Cooper._00DesignMode_Singleton;
 
-// from dev2
+
+
 public class Singleton {
     private Singleton() {
         System.out.println("Singleton  is  create"); // 创建单例的过程可能会比较慢
